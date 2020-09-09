@@ -1,2 +1,2 @@
-BThis is a great command, thanks D
-test test
+This is a great command, thanks D
+test test  more test
